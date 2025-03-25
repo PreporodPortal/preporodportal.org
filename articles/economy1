@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Naslov članka</title>
+    <title>Tramp i Starmer razmatraju ekonomski sporazum između UK i SAD</title>
     <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
@@ -11,7 +11,15 @@
         <h1>Naslov članka</h1>
         <a href="../economy.html">⬅ Nazad na Ekonomiju</a>
     </header>
-    <img src="../images/economy1.jpg" alt="Ekonomija">
-    <p>Ovde ide sadržaj članka o ekonomiji...</p>
+    <img src="../images/uk-sad-deal.jpg" alt="Ekonomija">
+    <p>Britanski premijer Kir Starmer i predsednik SAD Donald Tramp razgovarali su telefonom o napretku u pregovorima oko ekonomskog sporazuma između dve zemlje. Iako su detalji razgovora ostali nepoznati, britanska vlada je saopštila da se radi o dogovoru koji bi mogao doprineti ekonomskoj stabilnosti i prosperitetu obe države.
+
+Velika Britanija već duže vreme teži trgovinskom sporazumu sa SAD, posebno nakon izlaska iz Evropske unije 2021. godine. Sporazum bi omogućio Londonu da izbegne određene američke carine, koje trenutno pogađaju britansku industriju čelika. Za razliku od EU, Velika Britanija nije najavila kontramere na američke tarife, što pokazuje spremnost na kompromis kako bi se obezbedio dogovor.
+
+Dodatni faktor u pregovorima jeste britanski porez na digitalne servise, koji najviše pogađa američke tehnološke gigante poput Amazona, Applea i Googlea. Britanska ministarka finansija Rejčel Rivs nije isključila mogućnost ukidanja tog poreza, iako je naglasila da Velika Britanija i dalje planira da osigura da sve firme, uključujući one iz digitalnog sektora, plaćaju svoj pravedan deo poreza.
+
+Tramp je prošlog meseca, tokom Starmerove posete Vašingtonu, dodatno podgrejao nade Londona najavljujući sporazum koji bi eliminisao carine između dve zemlje. Međutim, britanski zvaničnici ističu da će sporazum biti sklopljen samo ako bude u nacionalnom interesu i doprinese ekonomskoj stabilnosti.
+
+Iako je napredak u pregovorima potvrđen, još uvek nije poznato kada bi konačni dogovor mogao biti postignut. Britanski i američki pregovarači nastavljaju razgovore, a britanska vlada naglašava da će donositi odluke koje su u skladu s interesima britanske ekonomije.</p>
 </body>
 </html>
