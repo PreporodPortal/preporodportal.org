@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saradnja Googlea i Mediateka</title>
+    <link rel="stylesheet" href="preporodportal.org/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Saradnja Googlea i Mediateka</h1>
+        <a href="preporodportal.org/technology.html">⬅ Nazad na Tehnologiju</a>
+    </header>
+    <img src="preporodportal.org/images/google.png" alt="Tehnologija">
+    <p> </p>
+</body>
+</html>
